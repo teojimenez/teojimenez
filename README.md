@@ -47,16 +47,18 @@ void  welcome_greetings()
 
 ## Stats
 
-<div align="center">
-    <a href="https://github.com/teojimenez">
-      <img src="https://github-readme-stats.vercel.app/api?username=teojimenez&show_icons=true&hide_border=true"/>
-    </a>
-</div>
-
-<div align="center">
-    <a href="https://github.com/teojimenez">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teojimenez&layout=compact"/>
-    </a>
+<div display="flex">
+  <div align="center">
+      <a href="https://github.com/teojimenez">
+        <img src="https://github-readme-stats.vercel.app/api?username=teojimenez&show_icons=true&hide_border=true"/>
+      </a>
+  </div>
+  
+  <div align="center">
+      <a href="https://github.com/teojimenez">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teojimenez&layout=compact"/>
+      </a>
+  </div>
 </div>
 
 <hr>
