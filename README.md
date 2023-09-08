@@ -10,7 +10,7 @@ void  welcome_greetings()
 ```
 
 ## About me 
-> Since I was a child I have been passionate about technology and decided to enter the world of programming.
+> Since I was a child I've been passionate about technology and decided to enter the world of programming.
 > I'm studing a degree Web Application Development at CampusNET and, at the same time, the 42cursus in Barcelona.
 > I stand out in the easy understanding, the desire to learn and the obsession to finish the challenges I set myself.
 
@@ -34,7 +34,7 @@ void  welcome_greetings()
 
 > Learning: C | JavaScript | PHP | Java
 
-## Tools & IDE's
+## 🔧 Tools & IDE's
 
  [![C icon](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
  [![C icon](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
@@ -45,7 +45,7 @@ void  welcome_greetings()
 
 > Vim | VS Code | Git | Github | Eclipse | StackOverFlow |
 
-## Stats
+## 📊 Stats
 
 <div display="flex">
   <div align="center">
