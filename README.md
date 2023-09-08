@@ -21,7 +21,7 @@ void  welcome_greetings()
  [![C icon](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
  [![C icon](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-> Languages: HTML | CSS | Python | SQL
+> Languages: HTML | CSS | Python | SQL 
 
 > I'm still learning these languages, but these are the ones I'm getting better at.
 
@@ -44,6 +44,20 @@ void  welcome_greetings()
  [![C icon](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
 
 > Vim | VS Code | Git | Github | Eclipse | StackOverFlow |
+
+## Stats
+
+<div align="center">
+    <a href="https://github.com/teojimenez">
+      <img src="https://github-readme-stats.vercel.app/api?username=teojimenez&show_icons=true&hide_border=true"/>
+    </a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/teojimenez">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teojimenez&layout=compact"/>
+    </a>
+</div>
 
 <hr>
 
