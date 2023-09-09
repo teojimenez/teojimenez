@@ -20,8 +20,9 @@ void  welcome_greetings()
  [![C icon](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
  [![C icon](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
  [![C icon](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+ [![C icon](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
-> Languages: HTML | CSS | Python | SQL 
+> Languages: HTML | CSS | Python | SQL | C#
 
 > I'm still learning these languages, but these are the ones I'm getting better at.
 
