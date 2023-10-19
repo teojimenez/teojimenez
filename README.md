@@ -1,52 +1,49 @@
-# Hi there 👋
+<h1 align="center">"Hi there"</h1>
+<div align="center">
+  <img src="https://github.com/teojimenez/teojimenez/assets/82720831/be01368b-e22b-45ab-913f-e254fa80c9f8" width="250">
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/teojimenez/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-```c
-#include <stdio.h>
+<h3 align="center">About me</h3>
+<hr>
+<div align="center">
+  <p>I've been always passionate about technology</p>
+  <p>I'm a Software Developer Student at <a href="https://campusnet.es/">CampusNET</a> && <a href="https://www.42network.org/">42network</a> in Barcelona.</p>
+  <p>I stand out in the easy understanding</p>
+  <p>I always have the desire to learn</p>
+  <p>The obsession to finish the challenges I set myself</p>
+</div>
 
-void  welcome_greetings()
-{
-  printf("Hello World!, Welcome to my git profile\n");
-}
-```
+<h3 align="center">Favorite tech</h3>
+<hr>
+<div align="center">
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Python" alt="Py" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Python" alt="Py" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Python" alt="Py" width="80" height="80"/>&nbsp;
+  </div>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Python" alt="Py" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Python" alt="Py" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Python" alt="Py" width="80" height="80"/>&nbsp;
+  </div>
+</div>
 
-## About me 
-> Since I was a child I've been passionate about technology and decided to enter the world of programming.
-> I'm studing a degree Web Application Development at CampusNET and, at the same time, the 42cursus in Barcelona.
-> I stand out in the easy understanding, the desire to learn and the obsession to finish the challenges I set myself.
+<h3 align="center">Stats</h3>
+<hr>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=teojimenez&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teojimenez&layout=compact&theme=dark#gh-dark-mode-only">
+</div>
 
-## ⚡Programming Languages
- 
- [![C icon](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
- [![C icon](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
- [![C icon](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
- [![C icon](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
- [![C icon](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-
-> Languages: HTML | CSS | Python | SQL | C#
-
-> I'm still learning these languages, but these are the ones I'm getting better at.
-
-## 🌱 I’m currently learning
-
- [![C icon](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
- [![C icon](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
- [![C icon](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
- [![C icon](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-
-> Learning: C | JavaScript | PHP | Java
-
-## 🔧 Tools & IDE's
-
- [![C icon](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
- [![C icon](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
- [![C icon](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
- [![C icon](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
- [![C icon](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
- [![C icon](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
-
-> Vim | VS Code | Git | Github | Eclipse | StackOverFlow |
-
-### 📫 Contact With Me
-
-- Email Personal: teojimbru@gmail.com
-- Linkedin: www.linkedin.com/in/teojimenez
+<h3 align="center">Contact Me</h3>
+<hr>
+<p align="center">📧 teojimbru@gmail.com</p>
